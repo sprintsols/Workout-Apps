@@ -1,0 +1,20 @@
+PODS:
+  - Google-Mobile-Ads-SDK (7.33.1)
+  - LinearProgressBar (0.0.1)
+
+DEPENDENCIES:
+  - Google-Mobile-Ads-SDK
+  - LinearProgressBar
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Google-Mobile-Ads-SDK
+    - LinearProgressBar
+
+SPEC CHECKSUMS:
+  Google-Mobile-Ads-SDK: 71c6d3e8d8f52673fa5a83fc0d027623b11fde16
+  LinearProgressBar: 8e88a5891dc964bea3ae88bdd3d5862cd168f628
+
+PODFILE CHECKSUM: 941d5db80c0698d410b1bb3633282115d952dcd2
+
+COCOAPODS: 1.5.3
